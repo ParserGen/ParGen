@@ -1,2 +1,12 @@
 *.fileloc
 datasets/specs/.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+framework/config/api_config.json
+framework/data/
